@@ -5,6 +5,7 @@ function theBeatlesPlay(musicians, instruments) {
   for(let i = 0; i < len; i++) {
     arr[i] = musicians[i] + " plays " + instruments[i];
   }
+  return arr;
 }
 function johnLennonFacts(facts) {}
 function iLoveTheBeatles(number) {}
