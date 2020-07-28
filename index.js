@@ -9,6 +9,6 @@ function theBeatlesPlay(musicians, instruments) {
 }
 function johnLennonFacts(facts) {
   let len = facts.length;
-  
+
 }
 function iLoveTheBeatles(number) {}
